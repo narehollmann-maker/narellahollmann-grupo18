@@ -1,0 +1,92 @@
+<html>
+<h3>Presupuesto de la PC</h3>
+    <ul>
+      <li><strong>Procesador:</strong> AMD Ryzen 5 5600GT: $264.590 </li>
+        <a href="https://ecommerce.paranahardware.com.ar/amd-ryzen-5600gt?search=Amd%20ryzen%20">Parana Hardware</a>
+      </li>
+      <li><strong>Motherboard:</strong> Asus A520M-K $99.810 </li>
+        <a href="https://ecommerce.paranahardware.com.ar/asus-a520m-k?search=Asus%20a5">Parana Hardware</a>
+      </li>
+      <li><strong>Fuente:</strong> FUENTE 600W EVOLABS POWER SERIES:  $62.601,07 </li>
+        <a href="https://fullh4rd.com.ar/prod/31243/fuente-600w-evolabs-power-series">Full H4rd</a>
+      </li>
+      <li><strong>Memoria RAM:</strong> Hiksemi Future DDR4 8GB 3200Mhz (×2): $78.600 </li>
+        <a href="https://ecommerce.paranahardware.com.ar/hiksemi-future-ddr4-8gb-3200mhz?search=Ddr4%208gb&description=true">Parana Hardware</a>
+      </li>
+      <li><strong>Disco SSD:</strong> Hiksemi Future X Lite 512GB NVMe PCIe4 7100MB/s:$68,190.00</li>
+        <a href="https://ecommerce.paranahardware.com.ar/hiksemi-future-x-lite-512gb-nvme-pcie4-7100mb-s?search=Ssd%20512">Parana Hardware</a>
+      </li>
+      <li><strong>Gabinete:</strong> Sentey M12 ARGB: $53.510</li>
+        <a href="https://ecommerce.paranahardware.com.ar/sentey-m12-argb?search=Gabinete&description=true&sort=p.price&order=ASC">Parana Hardware</a>
+      </li>
+      <li><strong>Auriculares </strong> AURICULAR QBOX H039 USB JACK 3.5 Y 3 PINES GAMER CALL CENTER CELULAR H390 H110: $11.639,96 </li>
+        <a href="https://fullh4rd.com.ar/prod/28211/auricular-qbox-h039-usb-jack-35-y-3-pines-gamer-call-center-celular-h390-h110">Full H4rd</a>
+      </li>
+	<li><strong>Teclado + Mouse: </strong>KIT TECLADO Y MOUSE THERMALTAKE ESPORTS CHALLENGER COMBO ESPAÑOL: $27.644,89 </li>
+        <a href="https://fullh4rd.com.ar/prod/31090/kit-teclado-y-mouse-thermaltake-esports-challenger-combo-espanol">Full H4rd</a>
+      </li>
+      <li><strong>Monitor:</strong> Teros 24 FHD IPS 120Hz: $184.190 </li>
+        <a href="https://ecommerce.paranahardware.com.ar/teros-24-fhd-ips-120hz?search=Monitor%2024&description=true">Parana Hardware</a>
+      </li>
+      <li><strong>Estabilizador:</strong> ESTABILIZADOR ELECTRICO LYONN TCA-1200NV: $53.037 </li>
+        <a href="https://fullh4rd.com.ar/prod/14314/estabilizador-electrico-lyonn-tca-1200nv">Full H4rd</a>
+      </li>
+	 <li><strong>Camara:</strong>WEBCAM LOGITECH Brio 100 White 960-001615 $56.939,87 </li>
+        <a href=" https://fullh4rd.com.ar/prod/27421/webcam-logitech-brio-100-white-960-001615">Full H4rd</a>
+      </li>
+	</li>
+	 <li><strong>Cooler:</strong> FAN COOLER 120MM SENTEY FRGB OEM S/CAJA (x3) $17.294,24 </li>
+        <a href=" https://fullh4rd.com.ar/prod/31065/fan-cooler-120mm-sentey-frgb-oem-s-caja">Full H4rd</a>
+      </li>
+      <li><strong>Sistema Operativo:</strong>Licencia Windows 11 Pro 64 bits: $259.999</li>
+        <a href="https://www.microsoft.com/es-ar/d/windows-11-pro/dg7gmgf0d8h4">Microsoft Store</a>
+      </li>
+      <li><strong>Software transimision:</strong>OBS Studio: $0</li>
+        <a href="https://obsproject.com/es/download">OBS</a>
+      </li>
+    </ul>
+    <p><strong>Total:</strong> $1.241.951,88,<strong> en dolares:</strong> 881.38 USD</p>
+
+<h3>Justificación de la elección de componentes</h3>
+<p> Me base en precios accesibles y que a la vez cumpla los requisitos basicos para poder transmitir y jugar en un buen rendimiento</p>
+
+<h3>Alternativa descartada y comparación</h3>
+<p> La alternativa era usar AMD Ryzen 7, pero consultando con la ia y experiencia propia considere elegir AMD Ryzen 5, ya que con esta elección basta para transmitir con un buen rendimiento</p>
+<h3>Rendimiento estimado</h3>
+<p><strong> Juego en strem:</strong> 60 FPS </p>
+<p><strong> Calidad de stream:</strong>1080 p a 30 FPS </p>
+
+<h2> Comparación entre componentes con IA </h2>
+
+<h4> Cuadro comparativo entre  Hiksemi Future DDR4 8GB 3200Mhz y Hiker DDR3 8GB 1600MHZ</h4>
+<img src= "Foto 1 comparacion memorias RAM.PNG" width = 500>
+<p>Fuente: <a href= "https://www.hiksemitech.com/es/hiksemi/all-products/memory/product-comparison-memory.html">Comparacion Memorias RAM</a></p>
+
+<p>Comparacion desde la IA</p>
+<img src= "Foto 2 comparacion memorias RAM IA .PNG" width = 500>
+
+<h2> Resumen técnico + Definicion simple </h2>
+<p><strong>¿Qué es el bitrate en streaming?</strong></p>
+<p><strong>Definicion técnica: </strong> El Bitrate (Tasa de Bits o Flujo de Datos) en streaming es un parámetro técnico fundamental que define la cantidad de datos (bits) transmitidos por unidad de tiempo (segundo). Se mide comúnmente en bits por segundo (bps), kilobits por segundo (Kbps) o megabits por segundo (Mbps).</p>
+<p><strong> Definicion simple: </strong> El bitrate es la cantidad de  información que estoy enviando por segundo cuando hago streaming.</p>
+
+<p><strong>¿Qué es la latencia?</strong></p>
+<p><strong>Definicion técnica: </strong> La latencia es una medida del retraso en la comunicación dentro de una red informática o un sistema digital. Técnicamente, es el tiempo que tarda un paquete de datos en viajar desde un punto de origen (emisor) hasta un punto de destino (receptor) y, a menudo, se mide como el tiempo de ida y vuelta (Round Trip Time, RTT).</p>
+<p><strong> Definicion simple: </strong> La latencia es el tiempo de retraso que hay en la comunicación, lo que la gente llama lag.</p>
+
+<p><strong>¿Qué función cumple la GPU en una PC gamer?</strong></p>
+<p><strong>Definicion técnica: </strong> La Unidad de Procesamiento Gráfico (GPU), también conocida como tarjeta gráfica o tarjeta de video, es el componente más crucial en una PC Gamer. Su función principal es el procesamiento en paralelo de todos los cálculos necesarios para generar y renderizar gráficos 3D en tiempo real.</p>
+<p><strong> Definicion simple: </strong> La GPU es la que se encarga de todos los efectos visuales complejos.</p>
+
+<h2> Imagen del proyecto generada con IA</h2>
+<img src = "Imagen con IA.PNG" width = 300>
+<h2>Conclusiones Finales</h2>
+<h4> ¿Cómo te ayudó la IA en este trabajo? </h4>
+<p>La IA me ayudó a organizar la información de manera clara,  tambien me ayudo con la comparación de componentes y el formato HTML, me brindo explicaciones técnicas sobre bitrate, latencia y función de la GPU.</p>
+<h4> ¿Detectaste errores o información poco confiable? ¿Cómo lo resolviste?</h4>
+<p> Cuando realice el cuadro comparativo algunas cosas no me estaban especificas, entonces tuve que entrar a la página oficial de hiksemi y comparar mejor</p>
+<h4> ¿En qué casos preferís buscar información manualmente en lugar de usar IA?</h4>
+<p>Prefiero buscar datos manualmente cuando se trata de buscar los precios de los componentes y sus características.</p>
+</html>
+
+
